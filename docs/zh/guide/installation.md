@@ -23,4 +23,6 @@ yarn global add @vue/cli
 
 ```bash
 vue --version
+# OR
+vue -V
 ```
